@@ -1,5 +1,8 @@
 # Anytime Graph Edit Distance Approaches for Pattern Recognition
 
+
+![LIFAT LOGO](https://github.com/zeinaabuaisheh/Anytime_Graph_Edit_Distance/blob/master/logo-lifat.jpg)
+
 ## Introduction
 
 This repository corresponds to the approaches that have been put forward to solve the problem of Graph Edit Distance and were implemented during the PhD of Zeina Abu-Aisheh at LIFAT laboratory:
