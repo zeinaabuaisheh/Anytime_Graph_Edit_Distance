@@ -20,6 +20,28 @@ import util.MyTree.MyNode;
 import util.Node;
 import xml.XMLParser;
 
+
+/*
+Please cite:
+@inproceedings{DBLP:conf/icpram/Abu-AishehRRM15,
+  author    = {Zeina Abu{-}Aisheh and
+               Romain Raveaux and
+               Jean{-}Yves Ramel and
+               Patrick Martineau},
+  title     = {An Exact Graph Edit Distance Algorithm for Solving Pattern Recognition
+               Problems},
+  booktitle = {{ICPRAM} 2015 - Proceedings of the International Conference on Pattern
+               Recognition Applications and Methods, Volume 1, Lisbon, Portugal,
+               10-12 January, 2015.},
+  pages     = {271--278},
+  year      = {2015},
+  crossref  = {DBLP:conf/icpram/2015-1},
+  timestamp = {Tue, 15 Sep 2015 17:18:51 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icpram/Abu-AishehRRM15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+*/
+
 public class GEDDFS 
 {
 	MyTree OPEN; // Tree that keeps track of unexplored nodes in the search tree

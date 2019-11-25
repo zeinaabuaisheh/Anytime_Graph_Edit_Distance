@@ -28,6 +28,27 @@ import util.MyTree.MyNode;
 import util.Node;
 import xml.XMLParser;
 
+
+/*
+Please cite:
+@article{DBLP:journals/eswa/Abu-AishehRRM18,
+  author    = {Zeina Abu{-}Aisheh and
+               Romain Raveaux and
+               Jean{-}Yves Ramel and
+               Patrick Martineau},
+  title     = {A parallel graph edit distance algorithm},
+  journal   = {Expert Syst. Appl.},
+  volume    = {94},
+  pages     = {41--57},
+  year      = {2018},
+  url       = {https://doi.org/10.1016/j.eswa.2017.10.043},
+  doi       = {10.1016/j.eswa.2017.10.043},
+  timestamp = {Tue, 28 Nov 2017 16:10:54 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/eswa/Abu-AishehRRM18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+*/
+
 public class GEDMultiThread {
 
 	MyTree OPEN; // Tree that keeps track of unexplored nodes in the search tree
