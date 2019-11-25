@@ -115,8 +115,8 @@ Remark : heap and stack memory size can be provided, as follows:
 
 ### Dataset Choice
 
-Note that datasets are given numbers in the code: The number 1 refers to GREC dataset, number 2 to Mutagenicity dataset, and number 3 to Protein dataset.
-If the user chooses Mutagenicity (i.e., 2), four other parameters have to be choosen too (substituiton, deletion and insertion of edges and vertices), insertion and deletions of vertices are similar and same applies to edges' deletion and insertion, thus to run the code on Mutagenicity:
+Note that datasets are given numbers in the code: The number 1 refers to GREC dataset, number 2 to Mutagenicity dataset, and number 3 to CMU dataset.
+If the user chooses Mutagenicity (i.e., 2), four other parameters have to be chosen too (substituiton, deletion and insertion of edges and vertices), insertion and deletions of vertices are similar and same applies to edges' deletion and insertion, thus to run the code on Mutagenicity:
 
  ``` java -Xss20m -Xmx10200m -jar *****.jar [TIME_CONSTRAINT_IN_MILLISECONDS] [THE_PATH_OF_THE_SOURCE_GRAPH] [The_PATH_OF_THE_SECOND_GRAPH] [THE_NUMBER_OF_THE_DATASET] [SUB_VERTICES_COST] [INSERT_DELETE_VERTICES_COST]  [SUB_EDGES_COST] [INSERT_DELETE_EDGES_COST]```
  
