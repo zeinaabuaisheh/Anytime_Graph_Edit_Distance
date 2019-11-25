@@ -108,7 +108,7 @@ To run the codes, you can generate the jar files of ADF (whose main function is 
 
 
   
-Remark : heap and stack memory size can be provided, as follows:
+####Remark: heap and stack memory size can be provided, as follows:
 
  ``` java -Xss20m -Xmx10200m -jar *****.jar [TIME_CONSTRAINT_IN_MILLISECONDS] [THE_PATH_OF_THE_SOURCE_GRAPH] [The_PATH_OF_THE_SECOND_GRAPH] [THE_NUMBER_OF_THE_DATASET] ```
 
