@@ -30,9 +30,7 @@ This repository corresponds to the approaches that have been put forward to solv
 
 - The second method's name is Parallel Depth-First (PDFS) and was published in the following journal:
 
-[Zeina Abu-Aisheh, Romain Raveaux, Jean-Yves Ramel and Patrick Martineau. "A parallel graph edit distance algorithm." * Expert Syst.* 2018.](http://www.rfai.li.univ-tours.fr/PagesPerso/zabuaisheh/documents/ESW2018-Zeina.pdf)
-
-Please cite: 
+[Zeina Abu-Aisheh, Romain Raveaux, Jean-Yves Ramel and Patrick Martineau. "A parallel graph edit distance algorithm." * Expert Syst.* 2018.](http://www.rfai.li.univ-tours.fr/PagesPerso/zabuaisheh/documents/ESW2018-Zeina.pdf). Please cite: 
 
 ```
 @article{DBLP:journals/eswa/Abu-AishehRRM18,
@@ -57,10 +55,7 @@ Please cite:
 
 The anytime version of DF and PDF are referred to as ADF and APDF, respectively. Anytime Graph Matching was published in the following journal:
 
-[Zeina Abu-Aisheh, Romain Raveaux and Jean-Yves Ramel. "Anytime graph matching." * Pattern Recognition Letters.* 2016.](https://www.sciencedirect.com/science/article/abs/pii/S0167865516302690)
-
-
-Please cite: 
+[Zeina Abu-Aisheh, Romain Raveaux and Jean-Yves Ramel. "Anytime graph matching." * Pattern Recognition Letters.* 2016.](https://www.sciencedirect.com/science/article/abs/pii/S0167865516302690). Please cite: 
 ```
 @article{DBLP:journals/prl/Abu-AishehRR16,
   author    = {Zeina Abu{-}Aisheh and
