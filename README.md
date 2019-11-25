@@ -101,7 +101,7 @@ To know more about each of the datasets, we refer the reader to [the GDR4GED rep
 
 ## Run the Code
 
-To run the codes, you can generate the jar files of ADF and APDFS, separately, then open the terminal and type:
+To run the codes, you can generate the jar files of ADF (whose main function is in GEDDFS.java) and APDFS (whose main function is in GEDMultiThread.java), separately, then open the terminal and type:
 
 
 ``` java -jar *****.jar [TIME_CONSTRAINT_IN_MILLISECONDS] [THE_PATH_OF_THE_SOURCE_GRAPH] [The_PATH_OF_THE_SECOND_GRAPH] [THE_NUMBER_OF_THE_DATASET] ```
