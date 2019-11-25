@@ -7,8 +7,9 @@ This repository corresponds to the approaches that have been put forward to solv
 - The first method's name is Depth-First (DF) and was published in the following conference:
 [Zeina Abu-Aisheh, Romain Raveaux and Jean-Yves Ramel. "Graph Edit Distance for Solving Pattern Recognition Problems." *ICPRAM.* 2015](http://www.rfai.li.univ-tours.fr/PagesPerso/zabuaisheh/documents/icpram.pdf)
 
-```
-Please cite: 
+
+Please cite:
+ 
 ```
 @inproceedings{DBLP:conf/icpram/Abu-AishehRRM15,
   author    = {Zeina Abu{-}Aisheh and
@@ -34,6 +35,7 @@ Please cite:
 [Zeina Abu-Aisheh, Romain Raveaux, Jean-Yves Ramel and Patrick Martineau. "A parallel graph edit distance algorithm." * Expert Syst.* 2018.](http://www.rfai.li.univ-tours.fr/PagesPerso/zabuaisheh/documents/ESW2018-Zeina.pdf)
 
 Please cite: 
+
 ```
 @article{DBLP:journals/eswa/Abu-AishehRRM18,
   author    = {Zeina Abu{-}Aisheh and
@@ -51,7 +53,7 @@ Please cite:
   biburl    = {https://dblp.org/rec/bib/journals/eswa/Abu-AishehRRM18},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-
+```
 
 - These methods can be transformed into anytime approaches thanks to the time and memory constraints where the user can output an answer at anytime.
 
@@ -96,11 +98,13 @@ To know more about each of the datasets, we refer the reader to [the GDR4GED rep
 
 To run the codes, you can generate the jar files of ADF and APDFS, separately, then open the terminal and type:
 
+
 ``` java -jar *****.jar [TIME_CONSTRAINT_IN_MILLISECONDS] [THE_PATH_OF_THE_SOURCE_GRAPH] [The_PATH_OF_THE_SECOND_GRAPH] [THE_NUMBER_OF_THE_DATASET] ```
 
 
   
 Remark : heap and stack memory size can be provided, as follows:
+
  ``` java -Xss20m -Xmx10200m -jar *****.jar [TIME_CONSTRAINT_IN_MILLISECONDS] [THE_PATH_OF_THE_SOURCE_GRAPH] [The_PATH_OF_THE_SECOND_GRAPH] [THE_NUMBER_OF_THE_DATASET] ```
 
 
