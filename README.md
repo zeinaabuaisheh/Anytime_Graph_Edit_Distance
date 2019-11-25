@@ -1,7 +1,9 @@
 # Anytime Graph Edit Distance Approaches for Pattern Recognition
 
 
-![LIFAT LOGO](https://github.com/zeinaabuaisheh/Anytime_Graph_Edit_Distance/blob/master/logo-lifat.jpg)
+<p align="center"> 
+<img src="https://github.com/zeinaabuaisheh/Anytime_Graph_Edit_Distance/blob/master/logo-lifat.jpg">
+</p>
 
 ## Introduction
 
