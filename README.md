@@ -6,8 +6,6 @@ This repository corresponds to the approaches that have been put forward to solv
 
 - The first method's name is Depth-First (DF) and was published in the following conference:
 [Zeina Abu-Aisheh, Romain Raveaux and Jean-Yves Ramel. "Graph Edit Distance for Solving Pattern Recognition Problems." *ICPRAM.* 2015](http://www.rfai.li.univ-tours.fr/PagesPerso/zabuaisheh/documents/icpram.pdf)
-
-
 Please cite:
  
 ```
