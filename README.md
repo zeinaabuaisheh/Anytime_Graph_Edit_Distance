@@ -5,11 +5,17 @@
 <img src="https://github.com/zeinaabuaisheh/Anytime_Graph_Edit_Distance/blob/master/logo-lifat.jpg">
 </p>
 
+## Requirements
+
+Java SE 1.2 
+
+
+
 ## Introduction
 
-This repository corresponds to the approaches that have been put forward to solve the problem of Graph Edit Distance and were implemented during the PhD of Zeina Abu-Aisheh at [LIFAT laboratory](https://lifat.univ-tours.fr/):
+This repository corresponds to the approaches that have been put forward to solve the problem of Graph Edit Distance and were implemented during the PhD of [Zeina Abu-Aisheh](https://sites.google.com/view/zeina-abuaisheh/home) at [LIFAT laboratory](https://lifat.univ-tours.fr/):
 
-- The first method's name is Depth-First (DF) and was published in the following conference:
+- The first method's name is Depth-First Search (DFS) and was published in the following conference:
 
 [Zeina Abu-Aisheh, Romain Raveaux and Jean-Yves Ramel. "Graph Edit Distance for Solving Pattern Recognition Problems." *ICPRAM.* 2015](http://www.rfai.li.univ-tours.fr/PagesPerso/zabuaisheh/documents/icpram.pdf). Please cite:
  
@@ -56,7 +62,7 @@ This repository corresponds to the approaches that have been put forward to solv
 }
 ```
 
-- These methods can be transformed into anytime approaches thanks to the time and memory constraints where the user can output an answer at anytime. The anytime version of DF and PDF are referred to as ADF and APDF, respectively. The Anytime Graph Matching idea was published in the following journal:
+- These methods can be transformed into anytime approaches thanks to the time and memory constraints where the user can output an answer at anytime. The anytime version of DFS and PDFS are referred to as ADF and APDF, respectively. The Anytime Graph Matching idea was published in the following journal:
 
 [Zeina Abu-Aisheh, Romain Raveaux and Jean-Yves Ramel. "Anytime graph matching." * Pattern Recognition Letters.* 2016.](https://www.sciencedirect.com/science/article/abs/pii/S0167865516302690). Please cite: 
 ```
@@ -78,6 +84,9 @@ This repository corresponds to the approaches that have been put forward to solv
 ```
 
 
+### Important Information
+
+DFS has been integrated in [networkX](https://networkx.github.io/) (a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks). For more details about the implementation of DFS in Python, take a look [here](https://networkx.github.io/documentation/latest/reference/algorithms/generated/networkx.algorithms.similarity.graph_edit_distance.html#networkx.algorithms.similarity.graph_edit_distance).
 
 
 ## Datasets
