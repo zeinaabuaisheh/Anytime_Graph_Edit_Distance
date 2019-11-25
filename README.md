@@ -56,9 +56,7 @@ This repository corresponds to the approaches that have been put forward to solv
 }
 ```
 
-- These methods can be transformed into anytime approaches thanks to the time and memory constraints where the user can output an answer at anytime.
-
-The anytime version of DF and PDF are referred to as ADF and APDF, respectively. Anytime Graph Matching was published in the following journal:
+- These methods can be transformed into anytime approaches thanks to the time and memory constraints where the user can output an answer at anytime. The anytime version of DF and PDF are referred to as ADF and APDF, respectively. The Anytime Graph Matching idea was published in the following journal:
 
 [Zeina Abu-Aisheh, Romain Raveaux and Jean-Yves Ramel. "Anytime graph matching." * Pattern Recognition Letters.* 2016.](https://www.sciencedirect.com/science/article/abs/pii/S0167865516302690). Please cite: 
 ```
